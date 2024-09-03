@@ -1,8 +1,4 @@
 # SwiftShield-Classification-for-Network-Intrusion
-Certainly! Here's the extended README:
-
----
-
 
 ## Overview
 
