@@ -3,7 +3,6 @@ Certainly! Here's the extended README:
 
 ---
 
-# SwiftShield: Classification for Network Intrusion
 
 ## Overview
 
@@ -27,7 +26,7 @@ SwiftShield implements a comprehensive approach to Network Intrusion Detection b
 5. [Problem Description](#problem-description)
 6. [The Process](#the-process)
 7. [Conclusion and Future Work](#conclusion-and-future-work)
-8. [References](#references)
+
 
 ## Introduction
 
